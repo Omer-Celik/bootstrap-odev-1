@@ -11,8 +11,8 @@
 
 Ödev Linki: (https://app.patika.dev/courses/bootstrap/odev1)
 
-![Ana Sayfa](img\index-html.png)
+![Ana Sayfa](img/index-html.png)
 
-![Hakkımızda](img\hakkimizda-html.png)
+![Hakkımızda](img/hakkimizda-html.png)
 
-![Ürünlerimiz](img\urunlerimiz-html.png)
+![Ürünlerimiz](img/urunlerimiz-html.png)
